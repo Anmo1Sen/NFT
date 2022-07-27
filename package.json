@@ -1,0 +1,22 @@
+{
+  "name": "july27",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.4.6",
+    "@openzeppelin/contracts": "^4.7.1",
+    "dotenv": "^16.0.1",
+    "hardhat": "^2.10.1"
+  },
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.1.0",
+    "ethers": "^5.0.0"
+  }
+}
